@@ -1,4 +1,4 @@
-Hi 👋 My name is Robert Danklefsen
+Hi 👋 My name is Bobby Danklefsen
 ==================================
 
 Full Stack Web/App Developer
@@ -47,4 +47,4 @@ I've worked as a full stack developer for a local Tulsa firm for over a decade. 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/a"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/bobbydank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
