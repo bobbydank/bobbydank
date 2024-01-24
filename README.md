@@ -1,7 +1,7 @@
 Hi 👋 My name is Bobby Danklefsen
 ==================================
 
-Full Stack Web/App Developer
+Full Stack Web Developer
 ----------------------------
 
 I've worked as a full stack developer for a local Tulsa firm for over a decade. I have made 100s of websites big and small for individuals/businesses big and small. I love working in Wordpress and React for web and app projects, and I love making bots with Python. If I'm not coding, you'll find me with family, friends, or jamming on my guitar.
